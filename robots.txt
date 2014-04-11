@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://amgaera.github.io/sitemap.xml 
